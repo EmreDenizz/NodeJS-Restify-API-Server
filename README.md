@@ -14,8 +14,8 @@ node index.js
 
 ### DESCRIPTIONS:
 Features:
-1. Create n user with **POST method**.
-2. Get n user or all users with **GET method**.
+1. Create a user with **POST method**.
+2. Get a user or all users with **GET method**.
 3. Delete a user with **DELETE method**.
 
 ### SCREENSHOTS:
